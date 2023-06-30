@@ -1,0 +1,5 @@
+Considering the shared memory addition I made for the blur.cu 
+code in the blurKernel kernel, I do not see why my code would 
+no longer convert the image. After debugging I was unsuccessful
+in determining the cause of the propblem. Therefore, I was
+unable to compare the performance to the original program.
